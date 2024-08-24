@@ -33,7 +33,7 @@ export default function PricingPage() {
               <CheckIcon className="mr-2 size-4" /> Receive & Send Emails
             </li>
             <li className="flex items-center">
-              <CheckIcon className="mr-2 size-4" /> 100mb Storage
+              <CheckIcon className="mr-2 size-4" /> 100MB Storage
             </li>
             <li className="flex items-center">
               <CheckIcon className="mr-2 size-4" /> 3 custom domain per mailbox
